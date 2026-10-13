@@ -1,12 +1,6 @@
-# STARTER-jpa03
+# jpa03-anikaaac
 
-
-
-Running at: <https://jpa03-anikaaac.dokku-13.cs.ucsb.edu>
-
-
-
-Running at: <https://jpa03-staff.dokku-00.cs.ucsb.edu>
+Running at: <https://jpa03-anikaaac.dokku-07.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
